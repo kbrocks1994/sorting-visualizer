@@ -1,0 +1,15 @@
+.bar {
+    margin: 0 2px;
+    background-color: teal;
+    display: inline-block;
+    width: 10px; /* Width of the bars */
+    transition: height 0.3s ease;
+}
+.bars-container {
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+    height: 70vh;
+    width: 100%;
+    background-color: #f4f4f4;
+}
